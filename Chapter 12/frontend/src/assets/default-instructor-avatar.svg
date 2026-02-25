@@ -1,0 +1,13 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="50" fill="#F3F4F6"/>
+  <circle cx="50" cy="35" r="15" fill="#6B7280"/>
+  <path d="M20 85C20 70 32 60 50 60C68 60 80 70 80 85" fill="#6B7280"/>
+  <circle cx="50" cy="50" r="49" stroke="#D1D5DB" stroke-width="2" fill="none"/>
+  <!-- Instructor glasses -->
+  <circle cx="42" cy="32" r="6" stroke="#374151" stroke-width="2" fill="none"/>
+  <circle cx="58" cy="32" r="6" stroke="#374151" stroke-width="2" fill="none"/>
+  <line x1="48" y1="32" x2="52" y2="32" stroke="#374151" stroke-width="2"/>
+  <!-- Tie -->
+  <polygon points="50,45 47,50 53,50" fill="#DC2626"/>
+  <rect x="48" y="50" width="4" height="8" fill="#DC2626"/>
+</svg>

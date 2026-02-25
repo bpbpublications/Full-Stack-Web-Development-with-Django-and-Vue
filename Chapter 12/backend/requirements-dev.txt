@@ -1,0 +1,19 @@
+# Development Dependencies
+
+pytest==8.4.2
+pytest-cov==6.0.0
+pytest-django==4.7.0
+factory-boy==3.3.0
+ruff==0.12.10
+black==25.1.0
+isort==5.13.2
+flake8==7.1.1
+django-debug-toolbar==4.2.0
+django-extensions==3.2.3
+sphinx==8.0.2
+sphinx-rtd-theme==2.1.1
+drf-spectacular==0.28.0
+inflection==0.5.1
+jsonschema==4.24.0
+uritemplate==4.2.0
+Pygments==2.19.2
